@@ -11,6 +11,7 @@ The project aims to demonstrate how deep learning models can help investors make
 
 ## 📂 Project Files
 ### 📄 [DTSA_5511_Final_Project_Report.pdf](./DTSA_5511_Final_Project_Report.pdf)
+### 📄 [DTSA_5511_Final_Project_Slides.pdf](./DTSA_5511_Final_Project_Slides.pdf)
 ---
 
 ## ✅ Status
